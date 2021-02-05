@@ -7,3 +7,6 @@ Field name:
 Just typing stuff about doing stuff. And maybe I'll find a picture to post too.
 
 > This is a quote. Veery smart sounding :-)
+![butterfly-print_70%.jpg](/uploads/butterfly-print_70%25.jpg)
+
+And this is some after pic stuff.
